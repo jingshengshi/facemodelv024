@@ -1,0 +1,24 @@
+SHA1 的 D:\01-task\20200617\v204\发布文件\server_win_amd64.exe 哈希:
+ee571915467f80231ff489f258bb5ea54d513525 
+ 
+SHA1 的 D:\01-task\20200617\v204\发布文件\client_test_win_amd64.exe 哈希:
+3d42a16db8583679edee3e5f5d5aa7ea6a67ad3e 
+
+SHA1 的 D:\01-task\20200617\v204\发布文件\client_config.yaml 哈希:
+b64f7df9a02e430113fae13455410ac88f2e8e10
+ 
+SHA1 的 D:\01-task\20200617\v204\发布文件\server_config.yaml 哈希:
+7c334978ea2a2be1a7aee5733d04d9326f26a4e9
+ 
+SHA1 的 D:\01-task\20200617\v204\发布文件\apitest1.py 哈希:
+e34acf1207ab4f0d89a9dd412be1dc897bc1df77
+ 
+SHA1 的 D:\01-task\20200617\v204\发布文件\apitest2.py 哈希:
+ed27b43ece685eeb95b418ee85db4a27909512d8 
+
+SHA1 的 D:\01-task\20200617\v204\发布文件\apitest3.py 哈希:
+a0682894be72a0dcc81c7929f958e7ad76c1e288 
+SHA1 的 D:\01-task\20200617\v204\发布文件\apitest4.py 哈希:
+3a504b0a0dbda93e4e3d8af0f7ebd6f8776fff5b 
+SHA1 的 D:\01-task\20200617\v204\发布文件\apitest5.py 哈希:
+e70aa6e8392687e90890d0beb175e89854d39617 

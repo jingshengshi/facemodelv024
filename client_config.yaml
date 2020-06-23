@@ -1,0 +1,5 @@
+ip: localhost
+port: 5000
+# 如果上一个命令是loop，必须先停止再运行下一个命令
+# true：自动加入一个停止命令；false：不自动加停止命令，输出错误信息
+loop_jump: true

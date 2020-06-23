@@ -1,0 +1,6 @@
+debug: false
+ip: 0.0.0.0
+port: 5000
+dev_type: com
+dev_path: COM3
+dev_rate: 9600
